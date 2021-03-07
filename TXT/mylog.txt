@@ -25,3 +25,4 @@ ZCZC W01 30 L07 Demo related (Try to run a01 until a14, found problems in a13 an
 ZCZC W01 5 L16 Assignment #6 (Update mylog.txt)
 ZCZC W01 90 L17 Assignment #7 (Top 10 List)
 ZCZC W01 5 L16 Assignment #6 (Update mylog.txt)
+ZCZC W01 30 L18 Assignment #8 (bash, regex, sed, and awk)
