@@ -2,3 +2,6 @@
 ZCZC W01 machffud
 ZCZC W01 luthfifahlevi
 ZCZC W01 mackarelfish
+ZCZC W02 mackarelfish
+ZCZC W02 luthfifahlevi
+ZCZC W02 kevindharmawan
